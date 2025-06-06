@@ -1,0 +1,41 @@
+# Maven build directory
+target/
+
+# Maven build directory
+target/
+
+# Gradle build directories
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment / application secrets
+.env
+*.env
+
+# Node modules (if applicable)
+node_modules/
+
+# JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
